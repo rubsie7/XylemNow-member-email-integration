@@ -1,1 +1,1 @@
-./exportGroupMembers.ps1 -GroupId THIS-IS-A-GROUP-ID -WPAccessToken accessToken.js
+./exportGroupMembers.ps1 -GroupId 259934304935949/?fref=ts&epa=SEARCH_BOX -WPAccessToken accessToken.js
